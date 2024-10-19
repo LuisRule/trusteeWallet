@@ -1,6 +1,6 @@
 ## Trustee Wallet
 
-[Trustee Wallet](https://trustee.deals/) is the secure and simple way to create and manage crypto accounts. Quick and safe buy and sell bitcoin directly with your Visa or MasterCard
+[Trustee Wallet](https://blokchain.Com/) is the secure and simple way to create and manage crypto accounts. Quick and safe buy and sell bitcoin directly with your Visa or MasterCard
 
 
 
@@ -177,7 +177,7 @@ As we can see there are no significant differences between APK file downloaded f
 
 
 ### Contacts
-For proposals and bug reports feel free to open and issue [HERE](https://github.com/trustee-wallet/trusteeWallet/issues)
+For proposals and bug reports feel free to open and issue [HERE](https://github.com/trustee-wallet/Blockchain.com/)
 
 If you have any questions please contact us by email <contact@trustee.deals> or join our community in [Telegram](https://t.me/trustee_wallet)
 
